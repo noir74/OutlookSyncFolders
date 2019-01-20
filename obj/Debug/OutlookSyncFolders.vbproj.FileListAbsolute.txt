@@ -1,0 +1,8 @@
+C:\Users\Roman\Documents\Visual Studio 2013\Projects\OutlookSyncFolders\OutlookSyncFolders\bin\Debug\OutlookSyncFolders.exe.config
+C:\Users\Roman\Documents\Visual Studio 2013\Projects\OutlookSyncFolders\OutlookSyncFolders\bin\Debug\OutlookSyncFolders.exe
+C:\Users\Roman\Documents\Visual Studio 2013\Projects\OutlookSyncFolders\OutlookSyncFolders\bin\Debug\OutlookSyncFolders.xml
+C:\Users\Roman\Documents\Visual Studio 2013\Projects\OutlookSyncFolders\OutlookSyncFolders\obj\Debug\OutlookSyncFolders.vbproj.ResolveComReference.cache
+C:\Users\Roman\Documents\Visual Studio 2013\Projects\OutlookSyncFolders\OutlookSyncFolders\obj\Debug\OutlookSyncFolders.Resources.resources
+C:\Users\Roman\Documents\Visual Studio 2013\Projects\OutlookSyncFolders\OutlookSyncFolders\obj\Debug\OutlookSyncFolders.vbproj.GenerateResource.Cache
+C:\Users\Roman\Documents\Visual Studio 2013\Projects\OutlookSyncFolders\OutlookSyncFolders\obj\Debug\OutlookSyncFolders.exe
+C:\Users\Roman\Documents\Visual Studio 2013\Projects\OutlookSyncFolders\OutlookSyncFolders\obj\Debug\OutlookSyncFolders.xml
